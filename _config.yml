@@ -1,5 +1,5 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Sushil-Blog
+description: "A Blogging website"
 author:
   name: "Sushil Verma"
   email: "sushil.bit.cse@gmail.com"
@@ -10,7 +10,7 @@ baseurl: /
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 3
+paginate: 4
 paginate_path: /page/:num/
 
 defaults:
@@ -32,6 +32,5 @@ owner : "Sushil"
 year : "2021"
 
 # Social
-#twitter_username: nathandench
-#github_username: ndench
+#github_username: shushill
 linkedin_username: shushill
