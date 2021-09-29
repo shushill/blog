@@ -3,7 +3,7 @@ description: "A Blogging website"
 author:
   name: "Sushil Verma"
   email: "sushil.bit.cse@gmail.com"
-  url: "https://shushill.github.io/blog"
+  url: "https://shushill.github.io/"
 
 baseurl: /
 
