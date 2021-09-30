@@ -14,10 +14,6 @@ A little bit about me !!
 
 
 <section>
-  {% if site.posts[0] %}
-
-  
-
     {%for post in site.posts %}
         <li><time>{{ post.date | date:"%d %b" }} - </time>
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -25,6 +21,4 @@ A little bit about me !!
           </a>
         </li>
     {% endfor %}
-
-  {% endif %}
 </section>
