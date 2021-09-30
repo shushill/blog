@@ -17,7 +17,7 @@ A little bit about me !!
     {%for post in site.posts %}
         <li>
           <a href="">
-            {{ post.title }}
+            {{ sushil }}
           </a>
         </li>
     {% endfor %}
