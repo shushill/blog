@@ -14,9 +14,11 @@ A little bit about me !!
 
 
 <ul>
-    {% for links in paginator.posts %}
+    {% for post in paginator.posts %}
       <li>
-          <h2><a href="{{ links.url | prepend: site.baseurl | replace: '//', '/' }}">{{ links.title }}</a></h2>
+          <h2><a href="">{{ post.title }}</a></h2>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
       </li>
     {% endfor %}
 </ul>
