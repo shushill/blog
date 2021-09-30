@@ -19,18 +19,12 @@ A little bit about me !!
   
 
     {%for post in site.posts %}
-      {% unless post.next %}
-          <h3>{Hello}</h3>
-          <ul>
-        {% endif %}
-      {% endunless %}
         <li><time>{{ post.date | date:"%d %b" }} - </time>
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             {{ post.title }}
           </a>
         </li>
     {% endfor %}
-    </ul>
 
   {% endif %}
 </section>
