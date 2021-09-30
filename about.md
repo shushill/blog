@@ -14,11 +14,9 @@ A little bit about me !!
 
 
 <section>
-    {%for post in site.posts %}
         <li>
           <a href="">
-            {{ sushil }}
+            { sushil }
           </a>
         </li>
-    {% endfor %}
 </section>
