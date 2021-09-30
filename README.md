@@ -101,7 +101,3 @@ Custom CSS: Make `_sass/custom.scss` and use it. Then add `@import "custom";` to
 **404 page**
 
 Edit `404.md`
-
-## License
-
-CC0 1.0 Universal
