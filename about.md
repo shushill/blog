@@ -16,7 +16,7 @@ A little bit about me !!
 <ul>
     {% for links in paginator.posts %}
       <li>
-          <h2><a href="{{ links.url | prepend: site.baseurl | replace: '//', '/' }}">{{ Github }}</a></h2>
+          <h2><a href="{{ links.url | prepend: site.baseurl | replace: '//', '/' }}">{{ links.title }}</a></h2>
       </li>
     {% endfor %}
 </ul>
