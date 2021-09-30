@@ -15,7 +15,6 @@ A little bit about me !!
 
 <section>
         <li>
-<!--           <a href=""></a> -->
-                <p>Hi there </p>
+          <a href="">Github</a>
         </li>
 </section>
