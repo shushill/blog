@@ -6,4 +6,10 @@ title: About
 A little bit about me !!
 > Hi I'm Sushil Verma. 
 > 
-> R&D Engineer at Synopsys
+> I am a Engineer who loves to read and design codes.
+> 
+> Loves to do problem solving using data structure and algorithm in C++. 
+> 
+> Currently I'm a R&D Engineer at Synopsys.
+
+
