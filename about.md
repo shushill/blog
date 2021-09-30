@@ -17,7 +17,13 @@ A little bit about me !!
 <section>
         <ul>
           <a href="https://github.com/shushill">Github</a>
-          <a href="https://www.linkedin.com/in/shushill">Linkedin</a>
+         
           <a href="https://shushill.github.io/">Portfolio</a>
         </ul>
+          <ul>
+      
+          <a href="https://www.linkedin.com/in/shushill">Linkedin</a>
+       
+        </ul>
+
 </section>
