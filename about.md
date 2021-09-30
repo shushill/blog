@@ -15,8 +15,7 @@ A little bit about me !!
 
 <section>
         <li>
-          <a href="">
-            { sushil }
-          </a>
+<!--           <a href=""></a> -->
+                <p>Hi there </p>
         </li>
 </section>
