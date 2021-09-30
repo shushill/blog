@@ -15,8 +15,8 @@ A little bit about me !!
 
 <section>
     {%for post in site.posts %}
-        <li><time>{{ post.date | date:"%d %b" }} - </time>
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+        <li>
+          <a href="">
             {{ post.title }}
           </a>
         </li>
