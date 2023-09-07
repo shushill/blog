@@ -8,9 +8,9 @@ A little bit about me !!
 > 
 > I am a Engineer who loves to read and design codes.
 > 
-> Loves to do problem solving using data structure and algorithm in C++. 
+> Loves to do problem solving using data structure and algorithm in C++, Java. 
 > 
-> Currently I'm a R&D Engineer at Synopsys.
+
 
 
 
